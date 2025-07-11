@@ -5,6 +5,9 @@ body {
     color: #e0e0e0;
     scroll-behavior: smooth;
 }
+html {
+    scroll-behavior: smooth;
+  }
 .container {
     max-width: 960px;
     margin: 0 auto;
